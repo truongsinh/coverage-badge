@@ -1,0 +1,16 @@
+{
+  "name": "coverage-badge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "request-promise": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "TruongSinh Tran-Nguyen",
+  "license": "MIT"
+}
